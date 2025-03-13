@@ -1,0 +1,10 @@
+C:\Users\USER01\Desktop\C#\Book_Project\Book_Project\bin\Debug\Book_Project.exe.config
+C:\Users\USER01\Desktop\C#\Book_Project\Book_Project\bin\Debug\Book_Project.exe
+C:\Users\USER01\Desktop\C#\Book_Project\Book_Project\bin\Debug\Book_Project.pdb
+C:\Users\USER01\Desktop\C#\Book_Project\Book_Project\obj\Debug\Book_Project.csproj.AssemblyReference.cache
+C:\Users\USER01\Desktop\C#\Book_Project\Book_Project\obj\Debug\Book_Project.Form1.resources
+C:\Users\USER01\Desktop\C#\Book_Project\Book_Project\obj\Debug\Book_Project.Properties.Resources.resources
+C:\Users\USER01\Desktop\C#\Book_Project\Book_Project\obj\Debug\Book_Project.csproj.GenerateResource.cache
+C:\Users\USER01\Desktop\C#\Book_Project\Book_Project\obj\Debug\Book_Project.csproj.CoreCompileInputs.cache
+C:\Users\USER01\Desktop\C#\Book_Project\Book_Project\obj\Debug\Book_Project.exe
+C:\Users\USER01\Desktop\C#\Book_Project\Book_Project\obj\Debug\Book_Project.pdb
